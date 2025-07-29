@@ -4,3 +4,7 @@
 ![](GIT/SIMLILEARN_GIT.pdf)
 ![](GIT/codesignal-certificate.png)
 ![](GIT/CODESIGNAL_GIT.pdf)
+![](UBUNTU-BASIC COMMENTS/Image-1.png)
+![](UBUNTU-BASIC COMMENTS/Image-2.png)
+![](UBUNTU-BASIC COMMENTS/Image-3.png)
+![](UBUNTU-BASIC COMMENTS/Image-4.png)
