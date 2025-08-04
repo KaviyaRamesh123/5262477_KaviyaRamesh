@@ -3,7 +3,7 @@ int main() {
     int day;
     printf("Enter day number (1 to 7): ");
     scanf("%d", &day);
-    while(day>7)
+    while(day>7 || day == 0)
     {
         printf("Invalid input! Going back to\n");
         printf("Again enter day number:");
